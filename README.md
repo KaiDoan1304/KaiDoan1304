@@ -26,7 +26,7 @@ I specialize in customer analytics, segmentation, logistics optimization, and bu
 ## 📊 Featured Projects  
 
 ### 🔹 Customer Segmentation & Growth Strategy (RFM + Cohort + Seasonality)
-**Tech:** Python, RFM Analysis, Cohort, Pareto, Tableau  
+**Tech:** Python, RFM Analysis, Cohort 
 - Top 27% customers = 80% revenue  
 - Month-1 retention: ~22%  
 - Seasonality: Q4 = 38% annual revenue  
