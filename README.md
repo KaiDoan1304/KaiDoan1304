@@ -36,5 +36,5 @@ Turning data into insights through analytics, visualization, and machine learnin
 
 ## 📬 Contact  
 📧 Email: dhnv13494@gmail.com  
-🔗 LinkedIn: (add your link here)  
+🔗 LinkedIn: www.linkedin.com/in/huynh-nhat-vu-doan-98a982126/ 
 🔗 GitHub: github.com/KaiDoan1304
