@@ -9,7 +9,7 @@ I specialize in customer analytics, segmentation, logistics optimization, and bu
 
 📍 Based in Ho Chi Minh City, Vietnam  
 📧 Email: dhnv13494@gmail.com  
-🔗 LinkedIn: (add link)  
+🔗 LinkedIn: www.linkedin.com/in/huynh-nhat-vu-doan-98a982126
 🔗 Portfolio: github.com/KaiDoan1304
 
 ---
